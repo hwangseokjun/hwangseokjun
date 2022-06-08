@@ -24,4 +24,4 @@
      
 📌Tools
 
-<img src="https://img.shields.io/badge/intelliJ-red?style=flat&logo=IntelliJ+IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Slack-purple?style=flat&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=AmazonAWS&logoColor=white"> <img src="https://img.shields.io/badge/Git-black?style=flat&logo=Git&logoColor=white"> 
+<img src="https://img.shields.io/badge/intelliJ-red?style=flat&logo=IntelliJ+IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Slack-purple?style=flat&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=AmazonAWS&logoColor=white"> <img src="https://img.shields.io/badge/Git-black?style=flat&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Notion-orange?style=flat&logo=Notion&logoColor=white">
