@@ -18,7 +18,7 @@
  
 📌Tech Stack
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=Springboot&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1??style=flat&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=Springboot&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1??style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=HTML5&logoColor=white">
 
 <br>
      
