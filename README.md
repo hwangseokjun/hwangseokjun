@@ -7,9 +7,9 @@
 박물관 학예사로 근무한 경력이 있으며, 고민과 연구를 거듭해 좋은 코드를 작성하기 위해 노력하는 개발자를 목표로 하고 있습니다.
  
 
-❗프로젝트
+❗Project
 
-물물박사 - [바로가기](https://moolmooldoctor.shop/)
+물물박사, 물물교환 플랫폼 - [바로가기](https://moolmooldoctor.shop/)
 
 발표영상 - [바로가기](https://www.youtube.com/watch?v=0ctyjB97S3o)
 
